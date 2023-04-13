@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  17 MAR 2023 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  13 APR 2023 03:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,7 +296,20 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
 
 (C:\Users\Anna\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `sometable' multiply defined.
+
+
+LaTeX Warning: Label `sometable' multiply defined.
+
+
+LaTeX Warning: Label `sometable' multiply defined.
+
+
+LaTeX Warning: Label `sometable' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -326,37 +339,62 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
+ [1
 
-[1
+{C:/Users/Anna/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (13.60147pt too wide) in paragraph at lines 32--33
+\T2A/cmr/m/n/12 маль-ные, т.к. ищем ми-ни-маль-ную опи-са-тель-ную дли-ну) зна-
+че-ния $[][] [] \OT1/cmr/m/n/12 =
+ []
 
-{C:/Users/Anna/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-[2] [3] (main.aux) ) 
+Overfull \hbox (73.89734pt too wide) in paragraph at lines 74--99
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3] [4] [5] [6] [7] (main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2182 strings out of 476374
- 35156 string characters out of 5789326
- 1869340 words of memory out of 5000000
- 22594 multiletter control sequences out of 15000+600000
- 519977 words of font info for 49 fonts, out of 8000000 for 9000
+ 2178 strings out of 476374
+ 35091 string characters out of 5789326
+ 1902340 words of memory out of 5000000
+ 22592 multiletter control sequences out of 15000+600000
+ 520795 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,52p,684b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\larm1200.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1728.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm2074.pk><C:/Users/Anna/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Anna/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Anna/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anna/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Anna/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ann
-a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (3 pages, 120483 bytes).
+ 43i,8n,52p,794b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx144
+0.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
+1200.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+abx1728.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\larm1440.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\larm2074.pk><C:/Users/Anna/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anna/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Anna/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Anna/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (7 pages, 136947 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
+ 241 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
