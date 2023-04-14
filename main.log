@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  13 APR 2023 03:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  14 APR 2023 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,15 +300,6 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 
 LaTeX Warning: Label `sometable' multiply defined.
 
-
-LaTeX Warning: Label `sometable' multiply defined.
-
-
-LaTeX Warning: Label `sometable' multiply defined.
-
-
-LaTeX Warning: Label `sometable' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -373,13 +364,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2178 strings out of 476374
- 35091 string characters out of 5789326
+ 2182 strings out of 476374
+ 35154 string characters out of 5789326
  1902340 words of memory out of 5000000
- 22592 multiletter control sequences out of 15000+600000
+ 22596 multiletter control sequences out of 15000+600000
  520795 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,52p,794b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 43i,8n,52p,815b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx144
 0.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 1200.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
@@ -392,9 +383,9 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Anna/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Anna/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Anna/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (7 pages, 136947 bytes).
+Output written on main.pdf (7 pages, 137277 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
+ 242 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
