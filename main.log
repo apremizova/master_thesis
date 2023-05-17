@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  15 MAY 2023 02:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.24)  17 MAY 2023 03:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1258,13 +1258,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--88
 \openout5 = `main.toc'.
 
 
-[2]
-<images/M2.png, id=55, 734.745pt x 539.616pt>
+[2] [3]
+<images/M2.png, id=82, 734.745pt x 539.616pt>
 File: images/M2.png Graphic file (type png)
 <use images/M2.png>
-Package pdftex.def Info: images/M2.png  used on input line 121.
+Package pdftex.def Info: images/M2.png  used on input line 128.
 (pdftex.def)             Requested size: 200.19054pt x 147.02391pt.
- [3 <./images/M2.png>]
+ [4 <./images/M2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1272,64 +1272,61 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (16.5129pt too wide) in paragraph at lines 271--272
+Overfull \hbox (16.5129pt too wide) in paragraph at lines 278--279
 \T2A/cmr/bx/n/12 Доказательство. \T2A/cmr/m/n/12 Рас-смот-рим вы-ра-же-ние ([][
 ]3[][]) для ло-га-риф-ма. Зна-че-ния $\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 (00)\OM
 L/cmm/m/it/12 ; n\OT1/cmr/m/n/12 (01)\OML/cmm/m/it/12 ; n\OT1/cmr/m/n/12 (10)\O
 ML/cmm/m/it/12 ; n\OT1/cmr/m/n/12 (11)$
  []
 
+[5]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5]
-<images/p(x,p).png, id=107, 1758.57pt x 2596.902pt>
+[6] [7]
+<images/p(x,p).png, id=124, 1758.57pt x 2596.902pt>
 File: images/p(x,p).png Graphic file (type png)
 <use images/p(x,p).png>
-Package pdftex.def Info: images/p(x,p).png  used on input line 305.
+Package pdftex.def Info: images/p(x,p).png  used on input line 312.
 (pdftex.def)             Requested size: 400.38872pt x 591.25183pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6] [7]
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[8] [9 <./images/p(x,p).png>]
+Overfull \hbox (55.59482pt too wide) in paragraph at lines 363--386
+ [] 
+ []
 
-Overfull \hbox (34.85098pt too wide) in paragraph at lines 393--394
+[10]
+Overfull \hbox (34.85098pt too wide) in paragraph at lines 401--402
 \T2A/cmr/m/n/12 лись пер-вые 30 зна-ков дво-ич-но-го пред-став-ле-ния чи-сел: $
 \OML/cmm/m/it/12 ^^Y \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 11\OML/cmm/m/it/12 :\
 OT1/cmr/m/n/12 0010010000111111011010101000[]\OML/cmm/m/it/12 ; [] \OMS/cmsy/m/
 n/12 ^^Y
  []
 
-[8]
-<images/M4_0001.png, id=135, 1115.367pt x 315.579pt>
+<images/M4_0001.png, id=157, 1115.367pt x 315.579pt>
 File: images/M4_0001.png Graphic file (type png)
 <use images/M4_0001.png>
-Package pdftex.def Info: images/M4_0001.png  used on input line 406.
+Package pdftex.def Info: images/M4_0001.png  used on input line 413.
 (pdftex.def)             Requested size: 300.29344pt x 84.96188pt.
-
+[11 <./images/M4_0001.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] Excluding 'comment' comment. Excluding 'comment' comment. [10] [11]
-[12 <./images/p(x,p).png>] [13 <./images/M4_0001.png>] (main.aux)
+[12] Excluding 'comment' comment. [13] [14] [15] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9EFD9591EB9702B0BEC90400246AE6D1;1272.
+(rerunfilecheck)             Checksum: 6037EA118D8045A08F45527328ECE215;1395.
  ) 
 Here is how much of TeX's memory you used:
- 14558 strings out of 476374
- 225401 string characters out of 5789326
- 1910340 words of memory out of 5000000
- 34622 multiletter control sequences out of 15000+600000
+ 14572 strings out of 476374
+ 225579 string characters out of 5789326
+ 1904340 words of memory out of 5000000
+ 34629 multiletter control sequences out of 15000+600000
  526709 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,76p,1998b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,76p,2071b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati120
 0.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx
 1200.pk> <C:\Users\Anna\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
@@ -1348,9 +1345,9 @@ na/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/U
 sers/Anna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb><C:/Users/Anna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on main.pdf (13 pages, 1581706 bytes).
+Output written on main.pdf (15 pages, 1600151 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
